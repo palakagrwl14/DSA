@@ -47,5 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palakagrwl14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/palakagrwl14/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->

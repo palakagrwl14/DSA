@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/palakagrwl14/DSA/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/palakagrwl14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/palakagrwl14/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palakagrwl14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

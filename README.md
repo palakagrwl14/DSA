@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/palakagrwl14/DSA/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
+| [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/palakagrwl14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

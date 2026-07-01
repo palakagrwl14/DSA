@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<vector<int>> dir = {{-1,0},{1,0},{0,-1},{0,1}};
+    int dx[4] = {-1, 1, 0, 0};
+    int dy[4] = {0, 0, -1, 1};
     int maximumSafenessFactor(vector<vector<int>>& grid) {
         int n = grid.size();
 
@@ -21,9 +22,9 @@ public:
             auto [x, y] = q.front();
             q.pop();
 
-            for(auto &d : dir) {
-                int nx = x + d[0];
-                int ny = y + d[1];
+            for(int k = 0; k < 4; k++) {
+                int nx = x + dx[k];
+                int ny = y + dy[k];
 
                 if(nx >= 0 && ny >= 0 && nx < n && ny < n &&
                    dist[nx][ny] == INT_MAX) {
@@ -34,33 +35,33 @@ public:
             }
         }
 
-        priority_queue<vector<int>> pq;
-        vector<vector<int>> vis(n, vector<int>(n, 0));
+        priority_queue<array<int,3>> pq;
+        vector<vector<int>> best(n, vector<int>(n, -1));
 
         pq.push({dist[0][0], 0, 0});
+        best[0][0] = dist[0][0];
 
         while(!pq.empty()) {
-            auto cur = pq.top();
+            auto [safe, x, y] = pq.top();
             pq.pop();
-
-            int safe = cur[0];
-            int x = cur[1];
-            int y = cur[2];
-
-            if(vis[x][y]) continue;
-            vis[x][y] = 1;
 
             if(x == n-1 && y == n-1)
                 return safe;
 
-            for(auto &d : dir) {
-                int nx = x + d[0];
-                int ny = y + d[1];
+            if(safe < best[x][y])
+                continue;
 
-                if(nx >= 0 && ny >= 0 && nx < n && ny < n &&
-                   !vis[nx][ny]) {
+            for(int k = 0; k < 4; k++) {
+                int nx = x + dx[k];
+                int ny = y + dy[k];
 
-                    pq.push({min(safe, dist[nx][ny]), nx, ny});
+                if(nx >= 0 && ny >= 0 && nx < n && ny < n) {
+                    int newSafe = min(safe, dist[nx][ny]);
+
+                    if(newSafe > best[nx][ny]) {
+                        best[nx][ny] = newSafe;
+                        pq.push({newSafe, nx, ny});
+                    }
                 }
             }
         }

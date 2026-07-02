@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/palakagrwl14/DSA/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/palakagrwl14/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/palakagrwl14/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/palakagrwl14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/palakagrwl14/DSA/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/palakagrwl14/DSA/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |

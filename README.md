@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palakagrwl14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/palakagrwl14/DSA/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/palakagrwl14/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/palakagrwl14/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/palakagrwl14/DSA/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/palakagrwl14/DSA/tree/master/0131-palindrome-partitioning) |
 | [3620-network-recovery-pathways](https://github.com/palakagrwl14/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/palakagrwl14/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/palakagrwl14/DSA/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/palakagrwl14/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/palakagrwl14/DSA/tree/master/0704-binary-search) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/palakagrwl14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/palakagrwl14/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/palakagrwl14/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/palakagrwl14/DSA/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/palakagrwl14/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakagrwl14/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/palakagrwl14/DSA/tree/master/3620-network-recovery-pathways) |

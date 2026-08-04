@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/palakagrwl14/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/palakagrwl14/DSA/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/palakagrwl14/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakagrwl14/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakagrwl14/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/palakagrwl14/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

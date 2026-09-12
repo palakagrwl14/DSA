@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palakagrwl14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/palakagrwl14/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/palakagrwl14/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/palakagrwl14/DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/palakagrwl14/DSA/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/palakagrwl14/DSA/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakagrwl14/DSA/tree/master/0002-add-two-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/palakagrwl14/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/palakagrwl14/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/palakagrwl14/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/palakagrwl14/DSA/tree/master/0075-sort-colors) |
+| [0443-string-compression](https://github.com/palakagrwl14/DSA/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/palakagrwl14/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/palakagrwl14/DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/palakagrwl14/DSA/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/palakagrwl14/DSA/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/palakagrwl14/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/palakagrwl14/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |

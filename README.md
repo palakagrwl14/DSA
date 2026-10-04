@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/palakagrwl14/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/palakagrwl14/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palakagrwl14/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/palakagrwl14/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palakagrwl14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/palakagrwl14/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/palakagrwl14/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/palakagrwl14/DSA/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/palakagrwl14/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/palakagrwl14/DSA/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/palakagrwl14/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/palakagrwl14/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/palakagrwl14/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/palakagrwl14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/palakagrwl14/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/palakagrwl14/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/palakagrwl14/DSA/tree/master/0875-koko-eating-bananas) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/palakagrwl14/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/palakagrwl14/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/palakagrwl14/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/palakagrwl14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/palakagrwl14/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/palakagrwl14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/palakagrwl14/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/palakagrwl14/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Breadth-First Search
 |  |
 | ------- |
